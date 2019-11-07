@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;GraphicsDrawImageEx1&apos; to &apos;GraphicsDrawImageEx&apos;&#x0D;&#x0A;- Original project: &apos;12-6&apos;&#x0D;&#x0A;- Original element: &apos;GraphicsDrawImageEx1&apos;&#x0D;&#x0A;- Renamed element: &apos;GraphicsDrawImageEx&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;GraphicsDrawImageEx1&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{GraphicsDrawImageEx1.java[GraphicsDrawImageEx1" matchStrategy="1" name="GraphicsDrawImageEx" qualified="false" references="true" similarDeclarations="false" stamp="1568782049439" textual="false" version="1.0"/>
+</session>

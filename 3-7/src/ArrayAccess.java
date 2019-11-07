@@ -1,0 +1,29 @@
+import java.util.Scanner;
+
+public class ArrayAccess {
+	public static void main(String[] args) {
+		Scanner scanner=new Scanner(System.in);
+		
+		int intArray[]=new int[5];
+		int max=0;
+		System.out.println("양수 5개를 입력하세요.");
+		for(int i=0;i<intArray.length;i++) {
+			intArray[i]=scanner.nextInt();
+			if(intArray[i]>max)
+				max=intArray[i];
+		}
+		System.out.println("가장 큰 수는 "+max+"입니다.");
+		
+		scanner.close();
+		}
+	
+		
+//		int[] a = {10,20,30,40};
+//		for(int i=0;i<a.length;i++) {
+//			System.out.println(a[i]);
+//		}
+//		
+//		for(int v : a) {                     // for-each문
+//			System.out.println(v);
+//		}
+	}

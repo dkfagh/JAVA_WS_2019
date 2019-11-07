@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;DrawingLineEx&apos; to &apos;DrawingLine&apos;&#x0D;&#x0A;- Original project: &apos;190919&apos;&#x0D;&#x0A;- Original element: &apos;DrawingLineEx&apos;&#x0D;&#x0A;- Renamed element: &apos;DrawingLine&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;DrawingLineEx&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{DrawingLineEx.java[DrawingLineEx" matchStrategy="1" name="DrawingLine" qualified="false" references="true" similarDeclarations="false" stamp="1568853341097" textual="false" version="1.0"/>
+</session>
